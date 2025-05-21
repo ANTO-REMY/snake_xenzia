@@ -1,6 +1,6 @@
 # Snake Game
 
-This is a simple implementation of the classic Snake game using JavaScript and HTML5 canvas.
+This is a simple implementation of the classic Snake game using JavaScript.
 
 ## Features
 - Basic snake movement
